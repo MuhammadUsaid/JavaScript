@@ -1,0 +1,44 @@
+body{
+    background-color: #AABB99;
+}
+h1{
+    color: #5522AA;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    text-shadow: 1px 1px #FF4411;
+    text-align: center;}
+img{
+    width: 400px;
+    height: 150px;
+    margin: 4px 30%;
+}
+#first-para{
+    width: 50%;
+    display: inline-block;
+}
+#right{
+    display: inline-block;
+    margin: 0px 50px;
+}
+.boldic{
+    color: #AA2214;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+#lastpic{
+    margin-left: 70%;
+}
+.userinput{
+    color: #FF2892;
+}
+.grade{
+    color: #CC5599;
+    display: inline-block;
+    margin: 0px 500px;
+    text-align: center;
+
+}
+.marks{
+    width: 45%;
+}
