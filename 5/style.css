@@ -1,0 +1,57 @@
+body{
+    background-image: url(images/sign1.jpg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-shadow: 1px 1px #FFAA67;
+    color: #AA3356;
+    margin-left: 150px;
+}
+p{
+    color: #447809;
+    text-align: center;
+    font-size: 70px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+#down{
+    
+}
+input{
+    text-align: center;
+    margin-left: 70%;
+    background: yellow;
+    width: 200px;
+    color: green;
+    font-size: 30px;
+    height: 50px;
+    border-radius: 5px;
+}
+input:hover{
+    color: #FFFFFF;
+    background: #000000;
+    text-shadow: 1px 1px limegreen;
+    border-radius: 20px;
+}
+#user-choice{
+    position: fixed;
+    top: 20px;
+    left: 3px;
+}
+#computer-choice{
+    position: fixed;
+    top: 50px;
+    left: 3px;
+}
+.side{
+    font-size: 20px;
+    color: #000055;
+    width: 250px;
+    border: red solid 1px;
+    
+}
