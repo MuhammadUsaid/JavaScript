@@ -1,7 +1,8 @@
 body{
-    background-color: burlywood;
+    background-color: rebeccapurple;
 }
 table{
+    background: rosybrown;
     text-align: center;
     border: solid #FFAA45 5px;
     border-radius: 7px;
